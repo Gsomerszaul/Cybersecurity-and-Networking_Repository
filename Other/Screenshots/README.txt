@@ -1,0 +1,1 @@
+This folder contains various screenshots taken throughout the progression of the "Red vs. Blue" Capture the flag assessment. Screenshots reveal results of actions performed such as enumeration using Network and Port Scanning, Brute Force execution, SSH Vulnerabilities, Successful Meterpreter exploitation and Flag Captures.
